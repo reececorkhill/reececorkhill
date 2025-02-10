@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Reece</h1>
-<h3 align="center">A web developer based in Gateshead, UK 🇬🇧</h3>
+<h3 align="center">Web developer based in the UK 🇬🇧</h3>
 
 - 🔭 I’m currently working on **Leadscanner - a B2B lead generation platform 🔒**
 
-- 🌱 I’m currently using **Vite + React + Tailwind**
+- 🌱 I’m currently using **Vite, React, Tailwind and Express**
 
 - 📫 How to reach me **reece@smartit-webdevelopment.co.uk**
 
