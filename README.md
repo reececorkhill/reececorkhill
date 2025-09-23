@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Leadscanner - a B2B lead generation platform 🔒**
 
-- 🌱 I’m currently using **Vite, React, Tailwind and Express**
+- 🌱 I’m currently utilising **NextJS, Vite, React, Tailwind and Express**
 
 - 📫 How to reach me **reece@smartit-webdevelopment.co.uk**
 
